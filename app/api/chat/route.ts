@@ -64,8 +64,6 @@ export async function POST(req: Request) {
       signal: req.signal,
     });
 
-    console.log(upstream)
-
     if (!upstream.ok || !upstream.body) {
       const errText = await upstream.text().catch(() => "");
       return new Response(
