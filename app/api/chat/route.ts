@@ -102,8 +102,6 @@ export async function POST(req: Request) {
             } catch {}
           }
         }
-
-        controller.close();
       },
     });
 
