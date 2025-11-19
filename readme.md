@@ -1,7 +1,7 @@
 # Real-Time AI Chat App (Next.js + Gemini API)
 
 This is a real-time AI chatbot template built using **Next.js (App Router)** and **Gemini API**.  
-It streams AI responses to the frontend in real time, providing a smooth and interactive chat experience similar to ChatGPT or Gemini. This is the random text added.
+It streams AI responses to the frontend in real time, providing a smooth and interactive chat experience similar to ChatGPT or Gemini.
 
 ---
 
