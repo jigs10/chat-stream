@@ -201,7 +201,7 @@ export default function ChatView() {
   }
 
   return (
-    <div className="flex flex-col h-[100dvh] bg-black max-w-2xl mx-auto px-4">
+    <div className="flex flex-col h-[100dvh] max-w-2xl mx-auto px-4">
       <header className="py-6">
         <h1 className="text-2xl font-semibold text-pretty">Realtime Chat</h1>
         <p className="text-sm text-muted-foreground">Streaming responses</p>
